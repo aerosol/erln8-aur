@@ -9,7 +9,7 @@ url="http://metadave.github.io/erln8/"
 source=('git://github.com/metadave/erln8')
 license=('Apache License')
 makedepends=('git')
-provides=('erln8')
+provides=('erln8' 'erlang')
 md5sums=('SKIP')
 conflicts=('erlang')
 
