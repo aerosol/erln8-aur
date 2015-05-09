@@ -1,0 +1,9 @@
+WARNING="`tput setaf 1`WARNING: It is recommended that you run 'erln8 --quickstart'"
+
+post_install() {
+    echo $WARNING
+}
+
+post_upgrade() {
+    echo $WARNING
+}

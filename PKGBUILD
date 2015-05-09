@@ -11,6 +11,7 @@ license=('Apache License')
 makedepends=('git')
 provides=('erln8' 'erlang')
 md5sums=('SKIP')
+install='erln8.install'
 conflicts=('erlang')
 
 
